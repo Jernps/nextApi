@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "New Visa Requirements for U.S. Citizens Traveling to Thailand",
+    "content": "As of July 1, 2023, all U.S. citizens traveling to Thailand will be required to obtain a visa before arrival. This is a change from the previous policy, which allowed U.S. citizens to stay in Thailand for up to 30 days without a visa.",
+    "date": "2023-07-05",
+    "image": "https://picsum.photos/200"
+  },
+  {
+    "id": 2,
+    "title": "Travel Warning for Thailand",
+    "content": "The U.S. Department of State has issued a travel warning for Thailand due to the ongoing COVID-19 pandemic. Travelers are advised to exercise increased caution and to follow the latest health and safety guidelines.",
+    "date": "2023-05-12",
+    "image": "https://picsum.photos/200"
+  },
+  {
+    "id": 3,
+    "title": "New Passport Application Process",
+    "content": "The U.S. Department of State has announced a new passport application process that is designed to be more efficient and convenient. Applicants can now apply for a passport online or by mail.",
+    "date": "2023-04-03",
+    "image": "https://picsum.photos/200"
+  },
+  {
+    "id": 4,
+    "title": "Consular Affairs Office to Close for Holiday",
+    "content": "The Consular Affairs Office will be closed for the following holidays: Memorial Day, Independence Day, Labor Day, Thanksgiving Day, and Christmas Day.",
+    "date": "2023-01-01",
+    "image": "https://picsum.photos/200"
+  },
+  {
+    "id": 5,
+    "title": "New Consular Affairs Office Opens in Bangkok",
+    "content": "The U.S. Department of State has opened a new Consular Affairs Office in Bangkok, Thailand. The new office is located at [address]",
+    "date": "2022-12-15",
+    "image": "https://picsum.photos/200"
+  },
+  {
+    "id": 6,
+    "title": "Scam Alert: Beware of Fake Consular Affairs Emails",
+    "content": "Scammers are sending fake emails that appear to be from the Consular Affairs Office. These emails often ask for personal information, such as your passport number or Social Security number. Do not provide any personal information to anyone who contacts you by email or phone.",
+    "date": "2022-11-10",
+    "image": "https://picsum.photos/200"
+  },
+  {
+    "id": 7,
+    "title": "Emergency Assistance for U.S. Citizens Abroad",
+    "content": "If you are a U.S. citizen in need of emergency assistance abroad, please contact the nearest U.S. embassy or consulate. You can also call the U.S. Department of State's 24-hour Emergency Center at 1-844-528-7799.",
+    "date": "2022-10-05",
+    "image": "https://picsum.photos/200"
+  },
+  {
+    "id": 8,
+    "title": "Lost or Stolen Passport",
+    "content": "If you have lost or stolen your passport, you should immediately report it to the nearest U.S. embassy or consulate. You can also apply for a replacement passport online or by mail.",
+    "date": "2022-09-01",
+    "image": "https://picsum.photos/200"
+  },
+  {
+    "id": 9,
+    "title": "Dual Citizenship",
+    "content": "The United States allows dual citizenship, which means that you can be a citizen of both the United States and another country. If you have questions about dual citizenship, please contact the U.S. Citizenship and Immigration Services (USCIS).",
+    "date": "2022-08-03",
+    "image": "https://picsum.photos/200"
+  }
+]
